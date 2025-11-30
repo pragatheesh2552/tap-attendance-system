@@ -143,8 +143,8 @@ Email: manager@example.com
 Password: Manager@123
 
 Employee
-Email: emp1@example.com
-Password: Employee@123
+Email: vishnupraga42@gmail.com
+Password: Vishnu@123
 
 ------------------------------------------------------------
 
