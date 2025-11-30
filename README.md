@@ -2,7 +2,9 @@ Employee Attendance Management System
 TAP Academy Interview Round 2 – Project Submission
 
 Developer: Pragatheesh R A
+
 College: Hindusthan College of Engineering and Technology
+
 Mail: pragatheeshra@gmail.com
 
 ------------------------------------------------------------
@@ -178,16 +180,17 @@ Add screenshots to a folder named screenshots in the repository.
 
 Recommended screenshots:
 Login Page
+<img width="899" height="627" alt="image" src="https://github.com/user-attachments/assets/e6d8012c-1d5e-45b0-8787-de60194cb614" />
 
-Employee Dashboard
-
-Check-In / Check-Out
-
+Employee Dashboard / Check-In / Check-Out
+<img width="1024" height="635" alt="image" src="https://github.com/user-attachments/assets/a823709a-7f62-4fde-877f-4ca755d9f717" />
 Attendance History
-
 Manager Dashboard
+<img width="1093" height="837" alt="image" src="https://github.com/user-attachments/assets/d5de197a-07c5-4e27-87bb-2b8d612faa21" />
 Attendance Table
+<img width="1111" height="692" alt="image" src="https://github.com/user-attachments/assets/0fda25a5-c7ca-4963-95a9-a7e27336176c" />
 CSV Export
+<img width="1066" height="468" alt="image" src="https://github.com/user-attachments/assets/c8563906-6d15-4471-83fa-1ff5308c21c1" />
 
 ------------------------------------------------------------
 
